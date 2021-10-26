@@ -1,1 +1,1 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fhexo&template=hexo&id=67753070&b=main&from=templates)
+[![Deploy with Netlify](https://netlify.com/button)](https://app.netlify.com/start/deploy?repository=https://github.com/hexojs/hexo-starter)
