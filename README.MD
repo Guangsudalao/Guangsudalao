@@ -2,7 +2,7 @@
 - 👋 我喜欢搭建网站
 - 👀 这是guangsudalao的主要账号
 
-<!---
-guangsudalao/guangsudalao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=guangsudalao&show_icons=true&theme=ocean_dark)  
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=guangsudalao&layout=compact&show_icons=true&theme=ocean_dark)
