@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guangsudalao
-- 👋 我喜欢搭建网站
-- 👀 这是guangsudalao的主要账号
+Hi, I’m @Guangsudalao
+I like building websites
+This is the main account of Guangsudalao
 
 ## My website：
 
