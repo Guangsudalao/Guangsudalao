@@ -1,11 +1,11 @@
-Hi, I’m @Guangsudalao 
-I like building websites 
-This is the main account of Guangsudalao 
+## Hi, I’m @Guangsudalao:
+I like building websites.
+This is the main account of Guangsudalao.
 
-## My website：
+## My Website：
 
 [Homepage](https://www.dlya.top) - [Blog](https://blog.dlya.top)
 
-
+## My Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=guangsudalao&show_icons=true&theme=ocean_dark)  
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=guangsudalao&layout=compact&show_icons=true&theme=ocean_dark)
