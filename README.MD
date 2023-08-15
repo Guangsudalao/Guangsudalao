@@ -7,8 +7,7 @@ This is the main account of Guangsudalao.
 [Homepage](https://www.dlya.top) - [Blog](https://blog.dlya.top)
 
 ## My Stats:
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Guangsudalao&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
+![](https://hit.yhype.me/github/profile?user_id=73008998)
 
 <a href="https://github.com/Guangsudalao/Guangsudalao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guangsudalao&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
